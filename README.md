@@ -2,6 +2,7 @@ fashion blog
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 stylish fashion blog website designed to showcase the latest trends, inspirational looks, and eco-conscious fashion choices. 
 The site provides a platform to explore vibrant designs, runway inspirations, and street-style edits.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,9 +18,10 @@ Grid layout of the latest fashion topics with stunning imagery and concise descr
 
 # Social Media Integration:
 Quick links to Instagram, Pinterest, Twitter, and Facebook for seamless sharing and updates.
-Dark Mode Toggle:
 
+Dark Mode Toggle:
 A button to switch between light and dark modes for improved user experience.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Technologies Used
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -41,6 +43,7 @@ Poppins for a clean and modern typography.
 
 Font Awesome:
 Icons for social links and the dark mode toggle button.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Enhancements
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
