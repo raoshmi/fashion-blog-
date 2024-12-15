@@ -45,6 +45,9 @@ Icons for social links and the dark mode toggle button.
 Future Enhancements
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.Add a backend to enable user authentication and content management.
+
 2.Implement a contact form and newsletter subscription.
+
 3.Integrate Google Analytics for tracking user behavior.
+
 4.Improve SEO with meta descriptions for all articles.
